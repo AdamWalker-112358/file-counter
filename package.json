@@ -1,0 +1,26 @@
+{
+  "name": "file-counter",
+  "version": "1.0.0",
+  "description": "Counts the number of files in a given folder",
+  "main": "./dist/main.js",
+  "type": "module",
+  "source": "./index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamWalker-112358/file-counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamWalker-112358/file-counter/issues"
+  },
+  "homepage": "https://github.com/AdamWalker-112358/file-counter#readme",
+  "devDependencies": {
+    "node-dev": "^7.4.3",
+    "nodemon": "^2.0.20"
+  }
+}
